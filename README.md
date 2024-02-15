@@ -1,4 +1,4 @@
-**Electric-Vehicle-Analysis**
+**Electric-Vehicle-Analysis** (Power BI)
 
 Objectives:
 •	To understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
