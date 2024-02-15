@@ -12,3 +12,5 @@ Objectives:
 •	Illustrates the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
 •	To highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
+**DATA SOURCE **
+https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population
